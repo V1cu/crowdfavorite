@@ -1,0 +1,15 @@
+{
+    "name": "vicu/crowdfavorite",
+    "authors": [
+        {
+            "name": "Vicu",
+            "email": "vitalie.tabara@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "CF\\": "inc/"
+        }
+    },
+    "require": {}
+}
