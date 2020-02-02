@@ -1,0 +1,33 @@
+/*!
+Theme Name: Crowd Favorite
+Theme URI: http://crowdfavorite.vicu.ro/
+Author: Vicu
+Author URI: http://vicu.ro/
+Description: This theme was created specially for Crowd Favorite!
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: cf-text-anchor
+*/
+
+// Third party
+@import "node_modules/animate.css/animate.css";
+@import "node_modules/magnific-popup/src/css/main.scss";
+@import "node_modules/slick-carousel/slick/slick.scss";
+@import "node_modules/font-awesome/scss/font-awesome.scss";
+@import "node_modules/bootstrap/scss/bootstrap.scss";
+@import "third-party/line-icons";
+
+// Core
+@import "core/common";
+
+// Helpers
+@import "helpers/common";
+
+// Components
+@import "components/section";
+@import "components/preloader";
+@import "components/slick";
+@import "components/other";
+
+
