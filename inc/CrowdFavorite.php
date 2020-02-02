@@ -158,4 +158,5 @@ class CrowdFavorite extends CrowdFavoriteAbstract
             echo sprintf("<script type=\"text/javascript\">\n\t%s\n</script>\n\n", $customJs);
         }
     }
+
 }
